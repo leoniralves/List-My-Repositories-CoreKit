@@ -1,0 +1,16 @@
+PODS:
+  - CoreKit (0.1.0)
+
+DEPENDENCIES:
+  - CoreKit (from `../`)
+
+EXTERNAL SOURCES:
+  CoreKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CoreKit: dd3c2d75c6866df728f62002c1e8045ad40dd0cc
+
+PODFILE CHECKSUM: a1338a80cd51ee8d06bb101cd329a2ea82cb37b2
+
+COCOAPODS: 1.6.0

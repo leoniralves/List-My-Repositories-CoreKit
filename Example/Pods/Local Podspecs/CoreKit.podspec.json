@@ -1,0 +1,22 @@
+{
+  "name": "CoreKit",
+  "version": "0.1.0",
+  "summary": "A short description of CoreKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Leonir Deolindo/CoreKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Leonir Deolindo": "leonir.ad@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Leonir Deolindo/CoreKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CoreKit/Classes/**/*"
+}
